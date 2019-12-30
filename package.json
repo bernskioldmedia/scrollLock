@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/bernskioldmedia/scrollLock/issues"
   },
-  "homepage": "https://github.com/bernskioldmedia/scrollLock#readme"
+  "homepage": "https://github.com/bernskioldmedia/scrollLock#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
